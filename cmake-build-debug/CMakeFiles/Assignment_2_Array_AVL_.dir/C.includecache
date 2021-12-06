@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mindzius/CLionProjects/Comp2213/Assignment-2(Array-AVL)/main.c
+stdio.h
+-
+stdlib.h
+-
+queue.h
+C:/Users/Mindzius/CLionProjects/Comp2213/Assignment-2(Array-AVL)/queue.h
+
+C:/Users/Mindzius/CLionProjects/Comp2213/Assignment-2(Array-AVL)/queue.h
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+

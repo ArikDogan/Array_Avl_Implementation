@@ -1,0 +1,3 @@
+C:/Users/Mindzius/CLionProjects/Comp2213/Assignment-2(Array-AVL)/cmake-build-debug/CMakeFiles/Assignment_2_Array_AVL_.dir
+C:/Users/Mindzius/CLionProjects/Comp2213/Assignment-2(Array-AVL)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mindzius/CLionProjects/Comp2213/Assignment-2(Array-AVL)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
